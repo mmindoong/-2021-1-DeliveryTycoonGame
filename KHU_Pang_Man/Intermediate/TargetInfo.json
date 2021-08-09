@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KHU_Pang_Man",
+			"Path": "C:\\Users\\alswj\\Documents\\GitHub\\KHU_Pang_Man\\KHU_Pang_Man\\Source\\KHU_Pang_Man.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KHU_Pang_ManEditor",
+			"Path": "C:\\Users\\alswj\\Documents\\GitHub\\KHU_Pang_Man\\KHU_Pang_Man\\Source\\KHU_Pang_ManEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

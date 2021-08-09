@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KHU_Pang_Man.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\KHU_Pang_ManEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\KHU_Pang_Man.cpp.obj"
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\KHU_Pang_ManGameModeBase.cpp.obj"
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\KHU_Pang_Man.init.gen.cpp.obj"
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\KHU_Pang_ManGameModeBase.gen.cpp.obj"
+"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\Default.rc2.res"
+/OUT:"C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\UE4Editor-KHU_Pang_Man.lib"
+/INCLUDE:IMPLEMENT_MODULE_KHU_Pang_Man

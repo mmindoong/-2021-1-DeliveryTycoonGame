@@ -1,0 +1,2 @@
+C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Intermediate\Build\Win64\UE4Editor\Development\KHU_Pang_Man\Definitions.KHU_Pang_Man.h
+C:\Users\alswj\Documents\GitHub\KHU_Pang_Man\KHU_Pang_Man\Source\KHU_Pang_Man\KHU_Pang_Man.h

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KHU_Pang_Man.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AE0B94CC-8EE7-4EC6-ABEC-946AA7E587F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KHU_Pang_Man.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KHU_Pang_ManEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{74C1C5EA-B585-4B84-AC77-54F12831B51B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\KHU_Pang_Man">
+      <UniqueIdentifier>{2211458E-FDDE-4980-8BC5-DA29DF76903E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\KHU_Pang_Man\CallData.cpp">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KHU_Pang_Man\CallData.h">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\KHU_Pang_Man\KHU_Pang_Man.Build.cs">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KHU_Pang_Man\KHU_Pang_Man.cpp">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KHU_Pang_Man\KHU_Pang_Man.h">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KHU_Pang_Man\KHU_Pang_ManGameModeBase.cpp">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KHU_Pang_Man\KHU_Pang_ManGameModeBase.h">
+      <Filter>Source\KHU_Pang_Man</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
